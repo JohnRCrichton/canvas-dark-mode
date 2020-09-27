@@ -13,12 +13,12 @@
   "default_locale": "en",
   "permissions": [
       "webNavigation",
-      "https://canvas.vt.edu/*"
+      "https://online.valenciacollege.edu/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://canvas.vt.edu/*"
+        "https://online.valenciacollege.edu/*"
       ],
       "css":[
           "css/styles.css"
