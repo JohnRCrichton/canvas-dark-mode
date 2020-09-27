@@ -15,7 +15,7 @@
     background-color: #282828 !important;
 }
 
-body, .header-bar, .ui-tabs-anchor, .quiz-submission  {
+body, .header-bar, .ig-header, .ui-tabs-anchor, .quiz-submission  {
     background: #1f1f1f !important;
     color: #C7CDD1 !important;
 }
